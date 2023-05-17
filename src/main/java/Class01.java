@@ -9,7 +9,7 @@ public class Class01 {
         //localden sevgilerle
         //v5...
         //V6..
-        //v7..
+        //v7 değişiklikk
 
 
 
