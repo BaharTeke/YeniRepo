@@ -1,6 +1,9 @@
 public class Class01 {
-    public static void main(String[] args) {
+    public static <String> void main(String[] args) {
+
         //V1 çalışmalarım...
+        //v2 kodlaro
+
 
     }
 }
